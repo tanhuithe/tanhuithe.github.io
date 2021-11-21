@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+##个人介绍（2002010020谭会）
+姓名：谭会
+性别：女
+出生年月：2002年6月15日
+籍贯：湖南衡阳
+专业：工商管理
+政治面貌：入党积极分子
+电子邮件：2167708255@qq.com
+### 技能总结
 
-You can use the [editor on GitHub](https://github.com/tanhuithe/tanhuithe.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
