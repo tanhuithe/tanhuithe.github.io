@@ -1,43 +1,35 @@
-##个人介绍（2002010020谭会）
+### 个人介绍（2002010020谭会）
 
 姓名：谭会
 
 性别：女
 
 出生年月：2002年6月15日
+
 籍贯：湖南衡阳
+
 专业：工商管理
+
 政治面貌：入党积极分子
+
 电子邮件：2167708255@qq.com
+
 ### 技能总结
 
+英语四级，掌握word，PPT等办公软件，会写推文，运营公众号。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 兴趣爱好
 
-```markdown
-Syntax highlighted code block
+摄影，羽毛球，阅读，跑步
 
-# Header 1
-## Header 2
-### Header 3
+### 教育背景
 
-- Bulleted
-- List
+湖南工商大学大二在读
 
-1. Numbered
-2. List
+### 主修课程
 
-**Bold** and _Italic_ and `Code` text
+市场营销学，概率论，管理学，经济学，概率论，商务英语
 
-[Link](url) and ![Image](src)
-```
+### 自我评价
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tanhuithe/tanhuithe.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+本人性格温和，做人诚实正直，有强烈的上进心和求知欲，做事脚踏实地，有强烈的责任心和吃苦耐劳的精神。与同事相处融洽，既有团队合作精神，又有很强的独立工作能力。接受新事物能力强。
